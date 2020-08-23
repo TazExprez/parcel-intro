@@ -1,0 +1,1 @@
+{"version":3,"sources":["scss/titles.scss"],"names":[],"mappings":"AAAA,EAAE,CAAC;EACD,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,KAAK;EACZ,WAAW,EAAE,GAAG,GACjB","file":"titles.7a4b0724.css","sourceRoot":"../src","sourcesContent":["h1 {\n  font-size: 3rem;\n  color: white;\n  font-weight: 600;\n}\n"]}

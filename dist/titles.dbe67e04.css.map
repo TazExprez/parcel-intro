@@ -1,0 +1,1 @@
+{"version":3,"sources":["css/titles.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA","file":"titles.dbe67e04.css","sourceRoot":"../src","sourcesContent":["h1 {\n  font-size: 3rem;\n  color: white;\n  font-weight: 600;\n}\n"]}
